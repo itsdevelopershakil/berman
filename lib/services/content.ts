@@ -324,7 +324,7 @@ export const SERVICES: SpecialtyContent[] = [
         ix: "01",
         title: "Low desire",
         italicWord: "desire",
-        body: "Hypoactive sexual desire disorder (HSDD). Reduced libido after pregnancy, perimenopause, antidepressants, or hormonal contraception managed in-clinic or nationwide via Telehealth.",
+        body: "Hypoactive sexual desire disorder (HSDD). • Reduced libido after pregnancy, perimenopause, antidepressants, or hormonal contraception managed in-clinic or nationwide via telehealth.",
       },
       {
         ix: "02",
@@ -342,7 +342,7 @@ export const SERVICES: SpecialtyContent[] = [
         ix: "04",
         title: "Orgasmic disorder",
         italicWord: "Orgasmic",
-        body: "Difficulty reaching orgasm, delayed orgasm, anorgasmia. Often hormonal, neurological, or pharmacologically induced treatments in-clinic or nationwide via telehealth.",
+        body: "Difficulty reaching orgasm, delayed orgasm, or anorgasmia is often hormonal, neurological, or pharmacologically induced. Personalized treatments are available in-clinic or nationwide via telehealth.",
       },
       {
         ix: "05",
@@ -366,7 +366,7 @@ export const SERVICES: SpecialtyContent[] = [
         num: "01",
         title: "Intake & history",
         italicWord: "Intake",
-        body: "A 60–90 minute first appointment with Dr. Berman at our Beverly Hills clinic or via secure telehealth. Detailed medical, hormonal, surgical, sexual, and pharmacological history.",
+        body: "A comprehensive first appointment with Dr. Berman at our Beverly Hills clinic (60–90 min) or via secure telehealth (45 min). Detailed medical, hormonal, surgical, sexual, and pharmacological history.",
       },
       {
         num: "02",
@@ -400,7 +400,7 @@ export const SERVICES: SpecialtyContent[] = [
       {
         when: "Week 1",
         title: "Initial consultation",
-        body: "60–90 min in-person at our Beverly Hills practice or via secure telehealth. History, exam where indicated, lab orders. Treatment plan drafted on the spot.",
+        body: "• 60–90 min in-person at our Beverly Hills practice or 45 min via secure telehealth. History, exam where indicated, lab orders, and a treatment plan drafted on the spot.",
       },
       {
         when: "Week 2–3",
