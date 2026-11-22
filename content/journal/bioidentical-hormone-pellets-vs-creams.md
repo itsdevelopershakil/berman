@@ -11,8 +11,7 @@ publishedAt: "2026-04-21T00:35:13Z"
 updatedAt: "2026-04-21T00:35:13Z"
 readTime: 13
 wordCount: 2967
-featuredImage: >-
-  https://bermansexualhealth.com/wp-content/uploads/2026/04/bioidentical-hormone-pellets-vs-creams-which-is-best-225702.webp
+featuredImage: "/images/blog/blog-image.jpg"
 originalUrl: "https://bermansexualhealth.com/bioidentical-hormone-pellets-vs-creams/"
 author: "Dr. Jennifer Berman, MD"
 ---
@@ -124,7 +123,6 @@ Hormone creams offer great dosage flexibility, but they also have unique challen
 ### FDA Approval vs. Compounding: What to Know
 
 This is a big one. It’s crucial to understand the difference between FDA-approved hormone therapies and custom-compounded formulas. FDA-approved products are tested for safety, effectiveness, and dosage accuracy. You know exactly what you’re getting. Compounded bioidentical hormone replacement therapy (cBHRT), on the other hand, is mixed in a special pharmacy. While this allows for custom dosages, these formulas lack the same level of government oversight and quality control. Studies have highlighted that this can lead to inconsistent hormone levels and potential safety issues. Always ask your doctor about the treatments they recommend and whether they are FDA-approved or compounded.
-
 
 [SCHEDULE A CONSULTATION](/contact/)
 

@@ -12,8 +12,7 @@ publishedAt: "2024-08-02T10:11:10Z"
 updatedAt: "2025-12-29T18:36:38Z"
 readTime: 19
 wordCount: 4472
-featuredImage: >-
-  https://bermansexualhealth.com/wp-content/uploads/2025/04/Antidepressants-and-Sexual-Side-Effects-in.webp
+featuredImage: "/images/blog/blog-image.jpg"
 originalUrl: >-
   https://bermansexualhealth.com/antidepressants-and-sexual-side-effects-in-women-insights-with-dr-jennifer-berman/
 tags:
@@ -258,4 +257,3 @@ The necessity for such all-encompassing care is undeniably paramount.
 - **Your Sexual Health Is Part of Your Overall Health**: Changes to your libido or sexual response while taking an antidepressant are a valid medical concern. You don’t have to choose between feeling good mentally and feeling satisfied sexually.
 - **Speak Up to Find a Solution**: Your doctor can only help manage side effects they know about. Be direct and honest about how your medication is affecting your sex life so you can work together on a better plan.
 - **A Different Approach Is Always an Option**: If fluoxetine is impacting your quality of life, remember that alternatives exist. From different medications to supportive therapies, there are effective ways to manage your mental health without sacrificing your sexual well-being.
-

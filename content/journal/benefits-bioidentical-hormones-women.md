@@ -11,8 +11,7 @@ publishedAt: "2025-12-15T11:23:03Z"
 updatedAt: "2026-01-20T05:44:13Z"
 readTime: 18
 wordCount: 4245
-featuredImage: >-
-  https://bermansexualhealth.com/wp-content/uploads/2025/12/the-real-benefits-of-bioidentical-hormones-for-women-973619.webp
+featuredImage: "/images/blog/blog-image.jpg"
 originalUrl: "https://bermansexualhealth.com/benefits-bioidentical-hormones-women/"
 author: "Dr. Jennifer Berman, MD"
 ---
@@ -165,7 +164,6 @@ Once you’ve found the right provider, your first appointment will involve a co
 ### Setting Expectations and Tracking Your Progress
 
 Bioidentical hormone therapy is a journey, not a destination. After your initial consultation, your provider will likely order blood work to get a clear picture of your current hormone levels. They will give you specific instructions on how to prepare, which might include fasting or temporarily pausing certain supplements. From there, it’s all about teamwork. You and your doctor will track your progress through regular follow-up appointments, making adjustments to your treatment as needed. This ongoing monitoring ensures your hormone levels remain balanced and that you continue to feel your absolute best while receiving comprehensive women’s health services.
-
 
 [SCHEDULE A CONSULTATION](/contact/)
 

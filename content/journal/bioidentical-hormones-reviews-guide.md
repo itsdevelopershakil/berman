@@ -11,8 +11,7 @@ publishedAt: "2026-05-06T15:20:08Z"
 updatedAt: "2026-05-06T15:20:08Z"
 readTime: 16
 wordCount: 3633
-featuredImage: >-
-  https://bermansexualhealth.com/wp-content/uploads/2026/05/bioidentical-hormones-reviews-an-unbiased-guide-399325.webp
+featuredImage: "/images/blog/blog-image.jpg"
 originalUrl: "https://bermansexualhealth.com/bioidentical-hormones-reviews-guide/"
 author: "Dr. Jennifer Berman, MD"
 ---
@@ -142,7 +141,6 @@ Compounded bioidentical hormones (cBHT) are custom-mixed by a compounding pharma
 Walking into your doctor’s office feeling prepared can make all the difference. Before your appointment, take some time to track your symptoms. Make a list of what you’re experiencing, how often it happens, and how it impacts your daily life. This information is incredibly valuable for your doctor.
 
 Also, jot down any questions you have. No question is too small or silly when it comes to your health. Be ready to discuss your complete medical history, including any family history of cancer or cardiovascular disease. The goal of this consultation is to have an open, honest conversation about your health and what you hope to achieve. This collaborative approach will help you and your doctor create a personalized treatment plan that feels right for you.
-
 
 [SCHEDULE A CONSULTATION](/contact/)
 

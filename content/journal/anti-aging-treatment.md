@@ -11,8 +11,7 @@ publishedAt: "2023-03-09T17:54:21Z"
 updatedAt: "2026-01-09T05:32:24Z"
 readTime: 19
 wordCount: 4406
-featuredImage: >-
-  https://bermansexualhealth.com/wp-content/uploads/2024/09/anti-aging-treatment.jpg
+featuredImage: "/images/blog/blog-image.jpg"
 originalUrl: "https://bermansexualhealth.com/anti-aging-treatment/"
 author: "Dr. Jennifer Berman, MD"
 ---
@@ -186,4 +185,3 @@ To better serve the diverse community of Southern California, Dr. Berman is prou
 - **Your Symptoms Are Connected**: Issues like low libido, incontinence, and hormonal changes are often linked. Dr. Berman’s unique expertise in urology, endocrinology, and sex therapy means she can create a comprehensive plan that addresses the root cause, not just one symptom.
 - **Demand a Personalized Plan**: Your body and health history are unique, so your treatment should be too. Dr. Berman creates customized strategies for everything from hormone balancing to sexual health, ensuring your care is specifically designed for your goals.
 - **Trust an Experienced Authority**: When it comes to personal health, expertise matters. Dr. Berman is a nationally recognized pioneer in female sexual medicine, giving you confidence that your care is based on decades of specialized experience and innovation.
-

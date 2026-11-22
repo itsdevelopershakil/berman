@@ -10,8 +10,7 @@ publishedAt: "2026-04-21T00:34:50Z"
 updatedAt: "2026-04-21T00:34:50Z"
 readTime: 18
 wordCount: 4076
-featuredImage: >-
-  https://bermansexualhealth.com/wp-content/uploads/2026/04/book-a-morpheus8-consultation-what-to-expect-755526.webp
+featuredImage: "/images/blog/blog-image.jpg"
 originalUrl: "https://bermansexualhealth.com/book-morpheus-8-consultation/"
 author: "Dr. Jennifer Berman, MD"
 ---
@@ -157,7 +156,6 @@ If you’re curious about what Morpheus8 can do for you, the best next step is a
 During your appointment, a provider will take a close look at your skin, discuss your expectations, and map out a plan that’s tailored just for you. A thorough consultation with a qualified practitioner is essential because it helps identify any potential risks and ensures the treatment is customized to your specific skin type for the best possible results. This is your time to ask every question on your mind and get a clear picture of the process from start to finish.
 
 One of the great things about Morpheus8 is its versatility. When administered by a trained professional, it’s a safe and effective option for all skin types. Your provider will adjust the treatment’s depth and energy to match your skin’s needs and your comfort level, ensuring your experience is as effective as it is comfortable. Feeling ready to explore your options? Talking with an expert is the only way to know for sure if Morpheus8 aligns with your beauty and wellness goals. Dr. Berman and her team are dedicated to providing personalized care and will work with you to create a treatment plan that makes you feel confident and cared for.
-
 
 [SCHEDULE A CONSULTATION](/contact/)
 

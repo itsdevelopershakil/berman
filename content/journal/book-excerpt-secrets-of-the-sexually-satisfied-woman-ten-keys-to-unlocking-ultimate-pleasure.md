@@ -5,12 +5,13 @@ title: >-
   Book Excerpt: Secrets of the Sexually Satisfied Woman: Ten Keys to Unlocking
   Ultimate Pleasure
 italicWord: Pleasure
-excerpt: 'One of the greatest mysteries of life is what constitutes a woman’s sexual satisfaction. This book is about solving that mystery. It’s about making sexual...'
+excerpt: "One of the greatest mysteries of life is what constitutes a woman’s sexual satisfaction. This book is about solving that mystery. It’s about making sexual..."
 category: Sexual Health
 publishedAt: "2025-05-15T00:45:12Z"
 updatedAt: "2025-05-15T00:45:12Z"
 readTime: 5
 wordCount: 1257
+featuredImage: "/images/blog/blog-image.jpg"
 originalUrl: >-
   https://bermansexualhealth.com/book-excerpt-secrets-of-the-sexually-satisfied-woman-ten-keys-to-unlocking-ultimate-pleasure/
 author: "Dr. Jennifer Berman, MD"

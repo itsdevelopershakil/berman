@@ -10,7 +10,7 @@ publishedAt: "2019-05-31T00:00:00Z"
 updatedAt: "2026-01-13T05:38:22Z"
 readTime: 14
 wordCount: 3134
-featuredImage: "https://bermansexualhealth.com/wp-content/uploads/2023/02/cbd-tampons.jpg"
+featuredImage: "/images/blog/blog-image.jpg"
 originalUrl: >-
   https://bermansexualhealth.com/cbd-tampons-and-how-they-interact-with-our-bodies/
 author: "Dr. Jennifer Berman, MD"
@@ -103,4 +103,3 @@ Once you have a diagnosis, you can explore a full spectrum of treatment options 
 - **Know the Difference: Suppository vs. Tampon**: These products are vaginal suppositories designed to melt and deliver localized CBD for pain relief; they are not traditional tampons and do not absorb menstrual fluid.
 - **Quality and Transparency Are Non-Negotiable**: The CBD market is largely unregulated, so the responsibility for safety falls on you. Prioritize brands that are transparent about their sourcing, use organic ingredients, and provide third-party lab reports to verify their claims.
 - **A Tool for Relief, Not a Cure for Pain**: CBD suppositories can be effective for managing temporary discomfort, but they don’t address the root cause of chronic pelvic pain. Persistent symptoms always require a specialist’s diagnosis for effective, long-term treatment.
-

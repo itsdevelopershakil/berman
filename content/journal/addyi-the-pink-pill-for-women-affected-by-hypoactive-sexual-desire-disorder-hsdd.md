@@ -11,8 +11,7 @@ publishedAt: "2019-05-03T00:00:00Z"
 updatedAt: "2025-12-11T05:39:36Z"
 readTime: 14
 wordCount: 3294
-featuredImage: >-
-  https://bermansexualhealth.com/wp-content/uploads/2023/02/The-Pink-Pill-for-Women.jpg
+featuredImage: "/images/blog/blog-image.jpg"
 originalUrl: >-
   https://bermansexualhealth.com/addyi-the-pink-pill-for-women-affected-by-hypoactive-sexual-desire-disorder-hsdd/
 author: "Dr. Jennifer Berman, MD"
@@ -143,4 +142,3 @@ Your doctor can write a prescription for Addyi. Then you pick it up at your phar
 - **It Works on Brain Chemistry, Not Blood Flow**: Addyi is a non-hormonal pill that rebalances the neurotransmitters in your brain responsible for sexual desire, making it a completely different approach from drugs that target physical arousal.
 - **Follow Key Safety Guidelines**: To use Addyi safely, you must avoid alcohol due to the risk of low blood pressure and fainting. It’s also essential to take your single daily dose at bedtime to manage potential side effects like dizziness.
 - **It’s for Diagnosed HSDD, Not All Low Libido**: Addyi is specifically for premenopausal women diagnosed with Hypoactive Sexual Desire Disorder (HSDD). The best way to find out if it’s right for you is to have an open conversation with a women’s health specialist to rule out other causes for your low desire.
-

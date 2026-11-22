@@ -10,8 +10,7 @@ publishedAt: "2026-05-06T15:22:57Z"
 updatedAt: "2026-05-06T15:22:57Z"
 readTime: 16
 wordCount: 3694
-featuredImage: >-
-  https://bermansexualhealth.com/wp-content/uploads/2026/05/your-guide-to-the-causes-of-pelvic-pain-in-women-266614.webp
+featuredImage: "/images/blog/blog-image.jpg"
 originalUrl: "https://bermansexualhealth.com/causes-pelvic-pain-women/"
 author: "Dr. Jennifer Berman, MD"
 ---
@@ -135,7 +134,6 @@ Alongside medical care, you can incorporate several at-home practices to help ma
 ### Supporting Your Emotional Well-Being
 
 Living with chronic pain isn’t just a physical challenge; it can take a toll on your emotional health, too. It’s completely normal to feel frustrated, anxious, or even depressed when you’re dealing with persistent discomfort. Research shows there are clear psychological factors linked to chronic pelvic pain, including sleep disturbances and stress. Acknowledging this connection is a powerful step. Prioritizing your mental health through practices like meditation, talking with a therapist, or joining a support group can be an essential part of your healing. Tending to your emotional needs is just as important as addressing the physical symptoms.
-
 
 [SCHEDULE A CONSULTATION](/contact/)
 

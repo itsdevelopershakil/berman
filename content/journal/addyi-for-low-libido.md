@@ -10,8 +10,7 @@ publishedAt: "2026-03-08T00:32:38Z"
 updatedAt: "2026-03-08T00:32:38Z"
 readTime: 16
 wordCount: 3577
-featuredImage: >-
-  https://bermansexualhealth.com/wp-content/uploads/2026/03/your-guide-to-understanding-addyi-for-low-libido-826427.webp
+featuredImage: "/images/blog/blog-image.jpg"
 originalUrl: "https://bermansexualhealth.com/addyi-for-low-libido/"
 author: "Dr. Jennifer Berman, MD"
 ---
@@ -143,7 +142,6 @@ For many women, Addyi works best as part of a holistic approach. Think of it as 
 ### Take the Next Step to Reclaim Your Sexual Health
 
 You don’t have to accept low libido as your new normal. Effective, FDA-approved treatments are available, but many women don’t know their options. Taking that first step to talk to a specialist can feel intimidating, but it’s an empowering move toward reclaiming an important part of your life. Dr. Berman is an expert in women’s sexual health and can help you understand if Addyi is right for you or what other paths you can explore. You deserve to feel vibrant and connected. Schedule a consultation to start the conversation and create a plan to restore your sexual health.
-
 
 [SCHEDULE A CONSULTATION](/contact/)
 

@@ -10,6 +10,7 @@ publishedAt: "2019-01-18T00:00:00Z"
 updatedAt: "2026-01-25T05:35:35Z"
 readTime: 8
 wordCount: 1884
+featuredImage: "/images/blog/blog-image.jpg"
 originalUrl: "https://bermansexualhealth.com/berman-tv-show-transcripts/"
 author: "Dr. Jennifer Berman, MD"
 ---
@@ -111,4 +112,3 @@ Description not available.
 - **A Trusted Voice in Public Education**: Through her book and appearances on major shows like _Oprah_ and _Good Morning America_, Dr. Berman has made it her mission to break down stigmas and make women’s health understandable for everyone.
 
 [SCHEDULE A CONSULTATION](/contact/)
-

@@ -11,8 +11,7 @@ publishedAt: "2026-03-11T15:33:57Z"
 updatedAt: "2026-03-11T15:33:57Z"
 readTime: 21
 wordCount: 4873
-featuredImage: >-
-  https://bermansexualhealth.com/wp-content/uploads/2026/03/aphrodisiac-for-women-what-actually-works-483911.webp
+featuredImage: "/images/blog/blog-image.jpg"
 originalUrl: "https://bermansexualhealth.com/aphrodisiac-for-women-guide/"
 author: "Dr. Jennifer Berman, MD"
 ---
@@ -188,7 +187,6 @@ If your sex drive changes suddenly or a low libido becomes a long-term problem, 
 ### Exploring Your Professional Treatment Options
 
 If you’re dealing with sexual health concerns like vaginal dryness, pain during sex, or a consistently low sex drive, a healthcare professional can offer proven solutions. Instead of guessing which supplements might work, you can get a personalized plan based on your specific needs. For women, there are many effective, FDA-approved options available. A specialist can introduce you to the right treatment for low libido in females, which may include medications like Addyi, hormone therapies to restore balance, or regenerative procedures like the O-Shot. These medical treatments are designed to address the physiological factors impacting your desire, offering a direct path to feeling more like yourself again.
-
 
 [SCHEDULE A CONSULTATION](/contact/)
 

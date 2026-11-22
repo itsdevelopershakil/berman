@@ -12,8 +12,7 @@ publishedAt: "2026-03-09T05:15:52Z"
 updatedAt: "2026-03-09T05:15:52Z"
 readTime: 18
 wordCount: 4121
-featuredImage: >-
-  https://bermansexualhealth.com/wp-content/uploads/2026/03/your-guide-to-the-best-prescription-med-for-menopause-470892.webp
+featuredImage: "/images/blog/blog-image.jpg"
 originalUrl: "https://bermansexualhealth.com/best-prescription-medicine-menopause/"
 author: "Dr. Jennifer Berman, MD"
 ---
@@ -153,7 +152,6 @@ Finding the right menopause treatment is a team effort. Your doctor brings medic
 ### How to Talk About Your Concerns
 
 It’s completely normal to have worries or questions about starting a new treatment, especially something like hormone therapy. Don’t hesitate to voice your concerns, no matter how small they seem. Being open about your fears allows your doctor to address them directly with facts and find a solution that you feel comfortable with. Whether you’re worried about side effects or have questions about a specific issue like low libido, speaking up is the first step. An open dialogue ensures the treatment plan you create together aligns with both your health needs and your peace of mind.
-
 
 [SCHEDULE A CONSULTATION](/contact/)
 

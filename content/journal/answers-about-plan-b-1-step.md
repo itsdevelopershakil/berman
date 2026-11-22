@@ -10,7 +10,7 @@ publishedAt: "2019-07-16T00:00:00Z"
 updatedAt: "2025-12-31T05:39:44Z"
 readTime: 10
 wordCount: 2222
-featuredImage: "https://bermansexualhealth.com/wp-content/uploads/2023/02/Plan-B-One-Step.jpg"
+featuredImage: "/images/blog/blog-image.jpg"
 originalUrl: "https://bermansexualhealth.com/answers-about-plan-b-1-step/"
 author: "Dr. Jennifer Berman, MD"
 ---
@@ -94,4 +94,3 @@ Privacy is paramount when it comes to your health, especially sexual health. You
 - **Time is Key for Emergency Contraception**: The morning-after pill is most effective when taken within 72 hours of unprotected sex, but it remains an option for up to five days. Acting sooner rather than later gives you the best outcome.
 - **Know Your Access Points**: You can purchase Plan B and its generic versions over-the-counter at most drugstores. For professional advice or other options, urgent care centers and your trusted OB/GYN are excellent resources for immediate care.
 - **Plan for the Future, Not Just the Emergency**: Emergency contraception is a backup, not a primary birth control method. This is a perfect opportunity to discuss a consistent, long-term strategy with your doctor to find a method that fits your lifestyle.
-

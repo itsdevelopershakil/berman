@@ -10,8 +10,7 @@ publishedAt: "2023-07-18T07:54:17Z"
 updatedAt: "2026-01-09T05:39:14Z"
 readTime: 14
 wordCount: 3153
-featuredImage: >-
-  https://bermansexualhealth.com/wp-content/uploads/2023/07/BeautiFill-laser-assisted-liposuction.jpg
+featuredImage: "/images/blog/blog-image.jpg"
 originalUrl: "https://bermansexualhealth.com/beautifill-laser-assisted-liposuction/"
 tags:
   - aviva
@@ -146,4 +145,3 @@ The cost of a BeautiFill procedure varies depending on several factors, includin
 - **Get Natural Results That Are Built to Last**: The advanced harvesting technique preserves the health of your fat cells, ensuring a high survival rate after transfer. This leads to predictable, long-lasting enhancements and permanent fat reduction in the treated areas.
 
 [SCHEDULE A CONSULTATION](/contact/)
-

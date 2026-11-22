@@ -2,12 +2,13 @@
 slug: common-causes-of-low-libido-in-men
 title: Common causes of Low Libido in Men
 italicWord: Men
-excerpt: 'No one likes to think about common causes of low libido in men, but it is a symptom that many men experience at some point in their lives. We all want to...'
+excerpt: "No one likes to think about common causes of low libido in men, but it is a symptom that many men experience at some point in their lives. We all want to..."
 category: Uncategorized
 publishedAt: "2022-01-19T00:00:00Z"
 updatedAt: "2025-02-13T23:15:57Z"
 readTime: 2
 wordCount: 493
+featuredImage: "/images/blog/blog-image.jpg"
 originalUrl: "https://bermansexualhealth.com/common-causes-of-low-libido-in-men/"
 author: "Dr. Jennifer Berman, MD"
 ---

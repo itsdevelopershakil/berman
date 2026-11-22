@@ -2,14 +2,13 @@
 slug: berman-tv-show-guests
 title: Berman TV Show Guests
 italicWord: Guests
-excerpt: 'Vibrance Associates Welcomes JJ Virgin, View video here.'
+excerpt: "Vibrance Associates Welcomes JJ Virgin, View video here."
 category: Press
 publishedAt: "2019-01-22T00:00:00Z"
 updatedAt: "2025-12-29T18:36:21Z"
 readTime: 2
 wordCount: 231
-featuredImage: >-
-  https://bermansexualhealth.com/wp-content/uploads/2023/02/jj-virgin-vibrance.jpg
+featuredImage: "/images/blog/blog-image.jpg"
 originalUrl: "https://bermansexualhealth.com/berman-tv-show-guests/"
 author: "Dr. Jennifer Berman, MD"
 ---

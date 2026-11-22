@@ -2,12 +2,13 @@
 slug: access-to-hrt-is-a-civil-right
 title: Access to HRT Is a Civil Right
 italicWord: Right
-excerpt: 'Women have fought for equality in every arena , the boardroom, the ballot box, and the bedroom . However, as we age, the playing field is definitely not...'
+excerpt: "Women have fought for equality in every arena , the boardroom, the ballot box, and the bedroom . However, as we age, the playing field is definitely not..."
 category: Sexual Health
 publishedAt: "2025-10-13T17:23:23Z"
 updatedAt: "2025-10-22T16:59:26Z"
 readTime: 3
 wordCount: 598
+featuredImage: "/images/blog/blog-image.jpg"
 originalUrl: "https://bermansexualhealth.com/access-to-hrt-is-a-civil-right/"
 author: "Dr. Jennifer Berman, MD"
 ---

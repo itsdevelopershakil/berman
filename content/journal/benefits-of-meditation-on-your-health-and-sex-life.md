@@ -2,14 +2,13 @@
 slug: benefits-of-meditation-on-your-health-and-sex-life
 title: Benefits of Meditation for Your Health and Sex Life
 italicWord: Life
-excerpt: 'If you had asked me 5 years ago whether I thought that meditation was an integral component of health and wellness I probably would have shrugged and...'
+excerpt: "If you had asked me 5 years ago whether I thought that meditation was an integral component of health and wellness I probably would have shrugged and..."
 category: Menopause & Hormones
 publishedAt: "2018-09-25T00:00:00Z"
 updatedAt: "2025-02-17T21:39:50Z"
 readTime: 6
 wordCount: 1408
-featuredImage: >-
-  https://bermansexualhealth.com/wp-content/uploads/2023/02/beach-beautiful-beauty-1023756.jpg
+featuredImage: "/images/blog/blog-image.jpg"
 originalUrl: >-
   https://bermansexualhealth.com/benefits-of-meditation-on-your-health-and-sex-life/
 author: "Dr. Jennifer Berman, MD"

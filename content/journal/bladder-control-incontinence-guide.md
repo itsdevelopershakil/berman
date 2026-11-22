@@ -10,8 +10,7 @@ publishedAt: "2025-12-22T11:25:19Z"
 updatedAt: "2026-02-23T08:11:54Z"
 readTime: 30
 wordCount: 6939
-featuredImage: >-
-  https://bermansexualhealth.com/wp-content/uploads/2025/12/your-guide-to-managing-bladder-control-incontinence-850105.webp
+featuredImage: "/images/blog/blog-image.jpg"
 originalUrl: "https://bermansexualhealth.com/bladder-control-incontinence-guide/"
 author: "Dr. Jennifer Berman, MD"
 ---
@@ -247,7 +246,6 @@ This might be the most damaging myth of all. Feeling like you just have to “li
 ### Myth: You Have to Give Up the Activities You Love
 
 The fear of a sudden leak can make you want to retreat from the world, turning down invitations for yoga class, long walks, or even a night out with friends. It’s completely understandable to feel that way, but your life doesn’t have to shrink because of incontinence. The entire goal of treatment is to give you your freedom back. With a personalized plan, you can get back to laughing without hesitation, running without worry, and living your life on your own terms. Finding the right support and exploring your treatment options is the key to reclaiming the activities that bring you joy and make you feel like yourself.
-
 
 [SCHEDULE A CONSULTATION](/contact/)
 

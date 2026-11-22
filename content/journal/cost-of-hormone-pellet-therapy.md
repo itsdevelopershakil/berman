@@ -10,8 +10,7 @@ publishedAt: "2026-05-06T15:22:08Z"
 updatedAt: "2026-05-06T15:22:08Z"
 readTime: 19
 wordCount: 4320
-featuredImage: >-
-  https://bermansexualhealth.com/wp-content/uploads/2026/05/how-much-does-hormone-pellet-therapy-cost-359729.webp
+featuredImage: "/images/blog/blog-image.jpg"
 originalUrl: "https://bermansexualhealth.com/cost-of-hormone-pellet-therapy/"
 author: "Dr. Jennifer Berman, MD"
 ---
@@ -172,7 +171,6 @@ When you think about the cost of hormone pellet therapy, it’s helpful to weigh
 ### Making the Right Financial Choice for You
 
 Let’s talk numbers. A single pellet insertion procedure can range from a few hundred to several hundred dollars, and you’ll typically need a new insertion every three to six months. When you break it down, this can average out to about the cost of a daily latte. While it’s an out-of-pocket expense for most, it’s important to consider the long-term value. You might find that the cost is comparable to your cumulative co-pays for daily or weekly prescriptions, without the hassle. Ultimately, the right financial choice is personal. It’s about what you’re comfortable spending to feel your best and live your life without hormonal disruptions. Discussing your specific needs and the associated costs during a consultation can help you create a clear and manageable plan for your health.
-
 
 [SCHEDULE A CONSULTATION](/contact/)
 

@@ -5,12 +5,13 @@ title: >-
   Challenges Faced by Healthcare Providers in the Obstetrical Care and
   Management of Circumcised Women
 italicWord: Women
-excerpt: 'By Crista E. Johnson, MD, Jennifer R. Berman, MD, Rasha Ebeid, MD, Linda H. Hewes, CNM, Kimmie L. Bui, MD, Fred E. Mecklenburg, MD, FACOG: Female Genital...'
+excerpt: "By Crista E. Johnson, MD, Jennifer R. Berman, MD, Rasha Ebeid, MD, Linda H. Hewes, CNM, Kimmie L. Bui, MD, Fred E. Mecklenburg, MD, FACOG: Female Genital..."
 category: Sexual Health
 publishedAt: "2025-05-15T00:23:14Z"
 updatedAt: "2025-05-15T00:23:14Z"
 readTime: 3
 wordCount: 594
+featuredImage: "/images/blog/blog-image.jpg"
 originalUrl: >-
   https://bermansexualhealth.com/challenges-faced-by-healthcare-providers-in-the-obstetrical-care-and-management-of-circumcised-women/
 author: "Dr. Jennifer Berman, MD"

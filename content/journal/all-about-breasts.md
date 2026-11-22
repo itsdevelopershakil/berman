@@ -2,12 +2,13 @@
 slug: all-about-breasts
 title: All About Breasts
 italicWord: Breasts
-excerpt: 'All About Breasts — Dr. Jennifer Berman, MD — Berman Women''s Wellness Center, Beverly Hills.'
+excerpt: "All About Breasts — Dr. Jennifer Berman, MD — Berman Women's Wellness Center, Beverly Hills."
 category: Press
 publishedAt: "2019-01-16T00:00:00Z"
 updatedAt: "2025-01-14T22:17:36Z"
 readTime: 43
 wordCount: 9954
+featuredImage: "/images/blog/blog-image.jpg"
 originalUrl: "https://bermansexualhealth.com/all-about-breasts/"
 author: "Dr. Jennifer Berman, MD"
 ---

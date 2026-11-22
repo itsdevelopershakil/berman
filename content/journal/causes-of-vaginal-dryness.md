@@ -10,8 +10,7 @@ publishedAt: "2026-04-21T00:34:36Z"
 updatedAt: "2026-04-21T00:34:36Z"
 readTime: 14
 wordCount: 3157
-featuredImage: >-
-  https://bermansexualhealth.com/wp-content/uploads/2026/04/what-causes-vaginal-dryness-your-guide-to-relief-425616.webp
+featuredImage: "/images/blog/blog-image.jpg"
 originalUrl: "https://bermansexualhealth.com/causes-of-vaginal-dryness/"
 author: "Dr. Jennifer Berman, MD"
 ---
@@ -119,7 +118,6 @@ So, how do you know when it’s time to move beyond the drugstore aisle and book
 ### What to Expect at Your Consultation
 
 Walking into a doctor’s office to discuss something so personal can feel intimidating, but it’s a conversation your provider is prepared and ready to have. The goal of your consultation is to pinpoint the exact cause of your discomfort. Your doctor will ask about your symptoms, your health history, and any medications you’re taking. This conversation is key to getting the right diagnosis and a personalized treatment plan. Depending on the cause, your doctor might suggest anything from lifestyle adjustments to hormonal treatments. It’s important to have an open discussion about the pros and cons of any recommended therapies so you can make an informed decision that feels right for you.
-
 
 [SCHEDULE A CONSULTATION](/contact/)
 

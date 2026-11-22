@@ -12,8 +12,7 @@ publishedAt: "2026-03-08T00:41:29Z"
 updatedAt: "2026-03-08T00:41:29Z"
 readTime: 21
 wordCount: 4788
-featuredImage: >-
-  https://bermansexualhealth.com/wp-content/uploads/2026/03/whats-the-safest-oab-medicine-for-the-elderly-355322.webp
+featuredImage: "/images/blog/blog-image.jpg"
 originalUrl: "https://bermansexualhealth.com/best-medicine-overactive-bladder-elderly/"
 author: "Dr. Jennifer Berman, MD"
 ---
@@ -181,7 +180,6 @@ Medication is often just one piece of the puzzle. Many women find significant re
 ### Monitor for Side Effects and Changes
 
 As a caregiver, you are uniquely positioned to notice subtle shifts in health or behavior. This is especially important for older adults, who can be more sensitive to medication side effects. Keep an eye out for common issues like dry mouth or constipation, but also be alert for more serious concerns like new confusion, drowsiness, or an increased risk of falls. If you notice any of these changes, it’s crucial to report them to her doctor right away. Your observations provide valuable information that helps her medical team make necessary adjustments to her treatment, ensuring her safety and well-being remain the top priority.
-
 
 [SCHEDULE A CONSULTATION](/contact/)
 

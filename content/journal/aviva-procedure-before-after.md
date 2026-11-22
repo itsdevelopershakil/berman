@@ -10,8 +10,7 @@ publishedAt: "2025-12-18T14:50:21Z"
 updatedAt: "2026-01-29T05:43:33Z"
 readTime: 23
 wordCount: 5376
-featuredImage: >-
-  https://bermansexualhealth.com/wp-content/uploads/2025/12/aviva-procedure-before-and-after-a-candid-guide-854207.webp
+featuredImage: "/images/blog/blog-image.jpg"
 originalUrl: "https://bermansexualhealth.com/aviva-procedure-before-after/"
 author: "Dr. Jennifer Berman, MD"
 ---
@@ -197,7 +196,6 @@ Once you have a shortlist of potential providers, it’s time to do a little hom
 ### Why Seeing a Specialist Matters
 
 The clinic’s environment is almost as important as the doctor’s credentials. A practice that specializes in women’s sexual and urinary tract health offers a level of understanding and care that a more generalized practice might not. The entire team, from the front desk to the medical assistants, will be familiar with your concerns and dedicated to providing a supportive, discreet experience. These specialized clinics are also more likely to invest in the latest, most effective technologies because it’s their primary focus. Choosing a clinic that lives and breathes women’s wellness ensures you’re getting care that is both expert and empathetic.
-
 
 [SCHEDULE A CONSULTATION](/contact/)
 

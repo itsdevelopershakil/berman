@@ -2,12 +2,13 @@
 slug: berman-sexual-health
 title: Berman Sexual Health
 italicWord: Health
-excerpt: 'Bewildered parents and adolescents get help for their first talk about sex. Topics covered include physical changes like body hair, acne, periods...'
+excerpt: "Bewildered parents and adolescents get help for their first talk about sex. Topics covered include physical changes like body hair, acne, periods..."
 category: Press
 publishedAt: "2019-01-18T00:00:00Z"
 updatedAt: "2025-01-14T22:16:37Z"
 readTime: 51
 wordCount: 11667
+featuredImage: "/images/blog/blog-image.jpg"
 originalUrl: "https://bermansexualhealth.com/berman-sexual-health/"
 tags:
   - adolescent-health

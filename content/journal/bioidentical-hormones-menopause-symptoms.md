@@ -10,8 +10,7 @@ publishedAt: "2026-05-05T14:50:52Z"
 updatedAt: "2026-05-05T14:50:52Z"
 readTime: 22
 wordCount: 5056
-featuredImage: >-
-  https://bermansexualhealth.com/wp-content/uploads/2026/05/are-bioidentical-hormones-for-menopause-symptoms-safe-414624.webp
+featuredImage: "/images/blog/blog-image.jpg"
 originalUrl: "https://bermansexualhealth.com/bioidentical-hormones-menopause-symptoms/"
 author: "Dr. Jennifer Berman, MD"
 ---
@@ -207,7 +206,6 @@ Deciding on any kind of hormone therapy is a deeply personal choice, and it’s 
 A key distinction to understand is the difference between FDA-approved bioidentical hormones and custom-compounded versions. While some FDA-approved options exist, many bioidentical hormones are mixed at compounding pharmacies. According to the Cleveland Clinic, there is no scientific proof that these custom-compounded formulas are safer or work better than their FDA-approved counterparts. Because they aren’t subject to the same strict testing, their long-term effects and safety can carry unknown risks.
 
 Ultimately, the best way to figure out if this therapy is a good fit is by talking with a specialist who understands the nuances of women’s health. Your provider can review your personal health history, discuss your specific symptoms, and help you weigh the pros and cons of every available treatment. The goal is to find a solution that works for your body and your life. This collaborative approach ensures you receive a personalized treatment plan that is both safe and effective for you.
-
 
 [SCHEDULE A CONSULTATION](/contact/)
 

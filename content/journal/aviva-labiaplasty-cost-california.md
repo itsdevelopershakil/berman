@@ -10,8 +10,7 @@ publishedAt: "2026-03-11T16:01:39Z"
 updatedAt: "2026-03-11T16:01:39Z"
 readTime: 20
 wordCount: 4651
-featuredImage: >-
-  https://bermansexualhealth.com/wp-content/uploads/2026/03/aviva-labiaplasty-cost-near-california-a-breakdown-833273.webp
+featuredImage: "/images/blog/blog-image.jpg"
 originalUrl: "https://bermansexualhealth.com/aviva-labiaplasty-cost-california/"
 author: "Dr. Jennifer Berman, MD"
 ---
@@ -191,7 +190,6 @@ Because Aviva is considered a cosmetic procedure, it’s typically not covered b
 ### Budgeting for Follow-Up Care
 
 Your financial planning shouldn’t stop at the procedure itself. It’s also wise to budget for your recovery period. You’ll need to arrange for someone to drive you home afterward, so factor in any related costs. You may also want to take a day or two off from work to rest comfortably, so consider that in your schedule. Following post-procedure instructions is key to a smooth recovery, which includes avoiding swimming and sexual activity for a short time. Planning for these small details ensures your entire experience with your sexual and urinary tract health is as seamless and stress-free as possible.
-
 
 [SCHEDULE A CONSULTATION](/contact/)
 

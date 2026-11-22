@@ -2,13 +2,13 @@
 slug: can-you-talk-to-your-doctor-about-sex
 title: Can You Talk To Your Doctor About Sex?
 italicWord: Sex
-excerpt: 'Thanks to a host of new medications and the increased number of patients seeking professional help for their problems, Sexual Dysfunction has become again...'
+excerpt: "Thanks to a host of new medications and the increased number of patients seeking professional help for their problems, Sexual Dysfunction has become again..."
 category: Sexual Health
 publishedAt: "2018-09-01T00:00:00Z"
 updatedAt: "2025-02-17T21:42:14Z"
 readTime: 7
 wordCount: 1633
-featuredImage: "https://bermansexualhealth.com/wp-content/uploads/2023/02/Doctor-Sex-Blog.jpg"
+featuredImage: "/images/blog/blog-image.jpg"
 originalUrl: "https://bermansexualhealth.com/can-you-talk-to-your-doctor-about-sex/"
 tags:
   - sexual-health

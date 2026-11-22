@@ -11,8 +11,7 @@ publishedAt: "2026-05-05T14:54:21Z"
 updatedAt: "2026-05-05T14:54:21Z"
 readTime: 20
 wordCount: 4675
-featuredImage: >-
-  https://bermansexualhealth.com/wp-content/uploads/2026/05/body-sculpting-for-post-menopausal-belly-what-works-718850.webp
+featuredImage: "/images/blog/blog-image.jpg"
 originalUrl: "https://bermansexualhealth.com/body-sculpting-post-menopausal-belly/"
 author: "Dr. Jennifer Berman, MD"
 ---
@@ -188,7 +187,6 @@ It’s helpful to think of body sculpting not as a single event, but as a proces
 ### Setting Realistic Goals for the Future
 
 Confidence is the ultimate goal, and it comes from feeling good in your own skin. While body sculpting can help you get there, it’s important to have realistic expectations. This journey is about celebrating your body, not chasing an impossible ideal. A great treatment plan always starts with your personal goals, your budget, and your overall health. It’s also crucial to remember that your body will continue to change, and that’s perfectly normal. The number on the scale doesn’t define your worth or your beauty. Let’s work together to set achievable goals that focus on your well-being and help you embrace your body at every stage.
-
 
 [SCHEDULE A CONSULTATION](/contact/)
 

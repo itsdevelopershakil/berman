@@ -2,14 +2,13 @@
 slug: cognitive-decline-in-menopausal-women
 title: Cognitive Decline in Menopausal Women
 italicWord: Women
-excerpt: 'Hormonal imbalance can have a significant impact on cognitive decline in women. Estrogen, in particular, plays a crucial role in maintaining cognitive...'
+excerpt: "Hormonal imbalance can have a significant impact on cognitive decline in women. Estrogen, in particular, plays a crucial role in maintaining cognitive..."
 category: Uncategorized
 publishedAt: "2024-09-16T11:19:09Z"
 updatedAt: "2025-04-17T06:56:36Z"
 readTime: 4
 wordCount: 1021
-featuredImage: >-
-  https://bermansexualhealth.com/wp-content/uploads/2025/04/featured-images-copy.webp
+featuredImage: "/images/blog/blog-image.jpg"
 originalUrl: "https://bermansexualhealth.com/cognitive-decline-in-menopausal-women/"
 tags:
   - dr-jennifer-berman

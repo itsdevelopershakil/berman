@@ -11,8 +11,7 @@ publishedAt: "2026-05-05T14:54:10Z"
 updatedAt: "2026-05-05T14:54:10Z"
 readTime: 16
 wordCount: 3770
-featuredImage: >-
-  https://bermansexualhealth.com/wp-content/uploads/2026/05/a-guide-to-body-contouring-for-women-in-beverly-hills-340872.webp
+featuredImage: "/images/blog/blog-image.jpg"
 originalUrl: "https://bermansexualhealth.com/body-contouring-women-beverly-hills/"
 author: "Dr. Jennifer Berman, MD"
 ---
@@ -148,7 +147,6 @@ Sometimes, a single treatment is all you need. Other times, the best outcomes co
 ### Creating Your Treatment Timeline
 
 Understanding the timeline is key to setting realistic expectations for your body contouring journey. While you might see some initial improvements shortly after a procedure, the full, final results often take time to appear. It can take several months for swelling to completely subside and for your body to settle into its new shape. Be sure to ask your specialist for a clear timeline, including when you can expect to see noticeable changes and when the final outcome will be visible. Knowing this helps you plan accordingly and allows you to patiently watch as your beautiful results unfold.
-
 
 [SCHEDULE A CONSULTATION](/contact/)
 

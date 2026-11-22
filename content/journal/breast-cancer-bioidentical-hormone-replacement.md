@@ -10,8 +10,7 @@ publishedAt: "2025-12-19T12:10:20Z"
 updatedAt: "2026-01-25T06:06:35Z"
 readTime: 30
 wordCount: 6910
-featuredImage: >-
-  https://bermansexualhealth.com/wp-content/uploads/2025/12/breast-cancer-and-bhrt-are-bioidentical-hormones-safe-864644.webp
+featuredImage: "/images/blog/blog-image.jpg"
 originalUrl: "https://bermansexualhealth.com/breast-cancer-bioidentical-hormone-replacement/"
 author: "Dr. Jennifer Berman, MD"
 ---
@@ -261,7 +260,6 @@ For some women who have a history of breast cancer and are experiencing severe m
 ### There’s No One-Size-Fits-All Answer
 
 Remember, your treatment plan should be as unique as you are. If you and your doctor decide that hormone therapy isn’t the right choice, there are many effective non-hormonal options to explore. From medications that can manage hot flashes to localized treatments that address specific symptoms, you have choices. The goal is to find a solution that provides relief and improves your quality of life safely. Working with a provider who offers a comprehensive range of women’s wellness services ensures you can create a truly personalized plan that addresses your symptoms and honors your health history.
-
 
 [SCHEDULE A CONSULTATION](/contact/)
 

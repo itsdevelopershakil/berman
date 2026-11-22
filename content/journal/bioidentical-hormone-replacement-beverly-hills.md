@@ -10,8 +10,7 @@ publishedAt: "2026-04-21T00:34:59Z"
 updatedAt: "2026-04-21T00:34:59Z"
 readTime: 18
 wordCount: 4245
-featuredImage: >-
-  https://bermansexualhealth.com/wp-content/uploads/2026/04/bioidentical-hormone-replacement-therapy-beverly-hills-a-guide-621836.webp
+featuredImage: "/images/blog/blog-image.jpg"
 originalUrl: "https://bermansexualhealth.com/bioidentical-hormone-replacement-beverly-hills/"
 author: "Dr. Jennifer Berman, MD"
 ---
@@ -169,7 +168,6 @@ The positive impact of BHRT is often felt sooner than you might think. While eve
 ### What Your BHRT Journey Could Look Like
 
 Your journey with BHRT begins with a conversation. The first step is a thorough consultation where you can discuss your health history, symptoms, and wellness goals. Dr. Berman uses a “whole-woman” approach, creating a unique Bioidentical Hormone Replacement Therapy plan because every woman’s body is different. This may involve tests to get a clear picture of your hormone levels. Based on this complete understanding of your health, a personalized treatment plan is designed specifically for you, ensuring your care is as safe and effective as possible.
-
 
 [SCHEDULE A CONSULTATION](/contact/)
 

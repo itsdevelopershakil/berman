@@ -8,8 +8,7 @@ publishedAt: "2026-11-03T00:00:00Z"
 updatedAt: "2026-11-03T16:22:10Z"
 readTime: 23
 wordCount: 5210
-featuredImage: >-
-  https://bermansexualhealth.com/wp-content/uploads/2023/02/3D-model-of-the-clitoris.jpg
+featuredImage: "/images/blog/blog-image.jpg"
 originalUrl: >-
   https://bermansexualhealth.com/3d-model-of-the-clitoris-exposes-pleasurable-female-anatomy/
 author: "Dr. Jennifer Berman, MD"
@@ -49,11 +48,11 @@ Not all urinary leakage stems from the same underlying physical cause, which is 
 
 For example, a patient who leaks only while jumping on a trampoline is dealing with stress incontinence, whereas leaking before reaching the bathroom door indicates urge incontinence. In fact, clinical guidelines archived by the [National Institutes of Health (NIH)](https://www.nih.gov/) show that identifying the correct subtype of incontinence is the single most critical step in restoring bladder control.
 
-| Incontinence Type   | Primary Cause             | Typical Symptoms                      | Standard First-Line Treatments                                   |
-| :------------------ | :------------------------ | :------------------------------------ | :-------------------------------------------------------------   |
-| Stress Incontinence |Weak pelvic support, tissue laxity   | Leaking during coughs, sneezes, or exercise  | Pelvic floor rehab, Kegel training, pessaries   |
-| Urge Incontinence   | Bladder muscle overactivity         |Sudden, uncontrollable urge to void    | Bladder retraining, lifestyle adjustments, medications |
-| Mixed Incontinence  | Combined muscle weakness and spasms | Leaking with physical effort and sudden urges | Combined behavioral therapy and physical rehab |
+| Incontinence Type   | Primary Cause                       | Typical Symptoms                              | Standard First-Line Treatments                         |
+| :------------------ | :---------------------------------- | :-------------------------------------------- | :----------------------------------------------------- |
+| Stress Incontinence | Weak pelvic support, tissue laxity  | Leaking during coughs, sneezes, or exercise   | Pelvic floor rehab, Kegel training, pessaries          |
+| Urge Incontinence   | Bladder muscle overactivity         | Sudden, uncontrollable urge to void           | Bladder retraining, lifestyle adjustments, medications |
+| Mixed Incontinence  | Combined muscle weakness and spasms | Leaking with physical effort and sudden urges | Combined behavioral therapy and physical rehab         |
 
 If you are exploring non-surgical options to support intimate wellness while evaluating bladder symptoms, take a look at our complete breakdown on [how many vaginal rejuvenation sessions](/how-many-vaginal-rejuvenation-sessions/) you need. Understanding treatment schedules helps you plan your care with total clarity.
 

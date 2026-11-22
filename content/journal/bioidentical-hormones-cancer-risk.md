@@ -10,8 +10,7 @@ publishedAt: "2026-05-06T15:20:39Z"
 updatedAt: "2026-05-06T15:20:39Z"
 readTime: 20
 wordCount: 4585
-featuredImage: >-
-  https://bermansexualhealth.com/wp-content/uploads/2026/05/the-truth-about-bioidentical-hormones-and-cancer-risk-825727.webp
+featuredImage: "/images/blog/blog-image.jpg"
 originalUrl: "https://bermansexualhealth.com/bioidentical-hormones-cancer-risk/"
 author: "Dr. Jennifer Berman, MD"
 ---
@@ -181,7 +180,6 @@ Bioidentical hormone therapy isn’t a one-and-done treatment. It’s a dynamic 
 ### Exploring All Your Treatment Options
 
 While BHRT can be a fantastic option for many women, it’s not the only one. It’s important to know that other paths are available if hormone therapy isn’t the right fit for you. Non-hormonal medications and lifestyle changes like yoga or acupuncture can also provide significant relief from menopause symptoms. A great doctor will discuss all of your treatment options with you, not just one. Be sure to talk through the pros and cons of each possibility. Even FDA-approved bioidentical hormones come with risks, and understanding the complete landscape of choices empowers you to make the best decision for your health and well-being.
-
 
 [SCHEDULE A CONSULTATION](/contact/)
 

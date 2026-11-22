@@ -2,13 +2,13 @@
 slug: announcing-my-partnership-with-plan-b-one-step
 title: Announcing My Partnership with Plan B One-Step
 italicWord: One-Step
-excerpt: 'I am proud to announce that I am partnering with Plan B One-Step to help educate women about sexual & reproductive health.'
+excerpt: "I am proud to announce that I am partnering with Plan B One-Step to help educate women about sexual & reproductive health."
 category: Sexual Health
 publishedAt: "2019-05-31T00:00:00Z"
 updatedAt: "2025-02-17T20:12:09Z"
 readTime: 2
 wordCount: 123
-featuredImage: "https://bermansexualhealth.com/wp-content/uploads/2023/02/Plan-B-One-Step.jpg"
+featuredImage: "/images/blog/blog-image.jpg"
 originalUrl: "https://bermansexualhealth.com/announcing-my-partnership-with-plan-b-one-step/"
 author: "Dr. Jennifer Berman, MD"
 ---

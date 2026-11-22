@@ -2,14 +2,13 @@
 slug: contoura
 title: Contoura
 italicWord: Contoura
-excerpt: 'Jennifer Berman MD is proud to offer the revolutionary body and facial remodeling contoura.'
+excerpt: "Jennifer Berman MD is proud to offer the revolutionary body and facial remodeling contoura."
 category: Aesthetic & Regenerative
 publishedAt: "2023-03-09T18:37:32Z"
 updatedAt: "2025-04-17T07:22:04Z"
 readTime: 2
 wordCount: 522
-featuredImage: >-
-  https://bermansexualhealth.com/wp-content/uploads/2025/04/Antidepressants-and-Sexual-Side-Effects-in.webp
+featuredImage: "/images/blog/blog-image.jpg"
 originalUrl: "https://bermansexualhealth.com/contoura/"
 author: "Dr. Jennifer Berman, MD"
 ---

@@ -10,8 +10,7 @@ publishedAt: "2026-05-05T14:54:34Z"
 updatedAt: "2026-05-05T14:54:34Z"
 readTime: 19
 wordCount: 4440
-featuredImage: >-
-  https://bermansexualhealth.com/wp-content/uploads/2026/05/what-to-expect-when-you-book-a-g-shot-consultation-132638.webp
+featuredImage: "/images/blog/blog-image.jpg"
 originalUrl: "https://bermansexualhealth.com/book-g-shot-consultation/"
 author: "Dr. Jennifer Berman, MD"
 ---
@@ -171,7 +170,6 @@ The G-Shot is designed for women who already have a healthy, functional sex life
 ### Health Factors to Consider Before Scheduling
 
 It’s also important to know that the G-Shot targets physical sensitivity, not the emotional or psychological aspects of arousal. If sexual difficulties are tied to stress, relationship issues, or other mental health factors, this procedure may not be the right fit. We can explore other avenues to address concerns like low libido. On the other hand, the G-Shot can be particularly effective for women experiencing physical changes from lower estrogen levels, such as during menopause or after childbirth. By making the G-spot more prominent, it can help counteract some of these hormonal shifts. A consultation will help determine if your goals and health profile make you a perfect match for the treatment.
-
 
 [SCHEDULE A CONSULTATION](/contact/)
 

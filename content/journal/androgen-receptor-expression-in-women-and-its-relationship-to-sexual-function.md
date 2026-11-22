@@ -2,12 +2,13 @@
 slug: androgen-receptor-expression-in-women-and-its-relationship-to-sexual-function
 title: Androgen Receptor Expression in Women and its Relationship to Sexual Function
 italicWord: Function
-excerpt: 'Androgens play a vital role in maintaining women’s sexual health and overall well-being as basic science research and clinical trials have begun to...'
+excerpt: "Androgens play a vital role in maintaining women’s sexual health and overall well-being as basic science research and clinical trials have begun to..."
 category: Sexual Health
 publishedAt: "2025-05-15T01:05:15Z"
 updatedAt: "2026-02-23T08:13:30Z"
 readTime: 2
 wordCount: 544
+featuredImage: "/images/blog/blog-image.jpg"
 originalUrl: >-
   https://bermansexualhealth.com/androgen-receptor-expression-in-women-and-its-relationship-to-sexual-function/
 author: "Dr. Jennifer Berman, MD"

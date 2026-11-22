@@ -11,6 +11,7 @@ publishedAt: "2018-09-25T00:00:00Z"
 updatedAt: "2025-12-13T05:38:40Z"
 readTime: 8
 wordCount: 1858
+featuredImage: "/images/blog/blog-image.jpg"
 originalUrl: "https://bermansexualhealth.com/alone-at-last-an-excerpt-from-prime/"
 author: "Dr. Jennifer Berman, MD"
 ---
@@ -52,4 +53,3 @@ What can I tell you? I weighed the risks and this was one of them. Women who wan
 - **Embrace your sensual curiosity**: Passion and desire are not limited by age or relationship status. This story is a powerful reminder to stay open to new experiences and give yourself permission to explore what brings you pleasure, reclaiming your own narrative around sexuality.
 
 [SCHEDULE A CONSULTATION](/contact/)
-

@@ -10,8 +10,7 @@ publishedAt: "2025-12-24T21:00:02Z"
 updatedAt: "2026-01-20T06:02:57Z"
 readTime: 22
 wordCount: 5074
-featuredImage: >-
-  https://bermansexualhealth.com/wp-content/uploads/2025/12/do-i-need-hrt-take-our-2-minute-quiz-to-see-999127.webp
+featuredImage: "/images/blog/blog-image.jpg"
 originalUrl: "https://bermansexualhealth.com/do-i-need-hrt-quiz/"
 author: "Dr. Jennifer Berman, MD"
 ---
@@ -201,7 +200,6 @@ Beyond credentials, it’s crucial that you feel comfortable and heard. Does the
 A one-size-fits-all approach simply doesn’t work for hormone therapy. Your personalized treatment plan should begin with a thorough conversation about your symptoms, medical history, and the results from your quiz. From there, your doctor will likely recommend diagnostic tests, such as a blood test, to get a clear picture of your current hormone levels.
 
 Based on these results, you and your doctor will decide together what treatment is best for you. This plan will be tailored to your specific hormonal needs, your stage of menopause, and your lifestyle preferences. Whether it’s Biote Hormone Therapy pellets, creams, or another method, the goal is to create a customized regimen that helps you feel like yourself again.
-
 
 [SCHEDULE A CONSULTATION](/contact/)
 

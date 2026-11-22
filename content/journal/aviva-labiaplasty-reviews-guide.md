@@ -10,8 +10,7 @@ publishedAt: "2025-12-10T13:00:22Z"
 updatedAt: "2026-02-18T09:48:05Z"
 readTime: 24
 wordCount: 5579
-featuredImage: >-
-  https://bermansexualhealth.com/wp-content/uploads/2025/12/aviva-labiaplasty-reviews-a-complete-patient-guide-848216.webp
+featuredImage: "/images/blog/blog-image.jpg"
 originalUrl: "https://bermansexualhealth.com/aviva-labiaplasty-reviews-guide/"
 author: "Dr. Jennifer Berman, MD"
 ---
@@ -216,7 +215,6 @@ Consider asking some of the following:
 - What does the recovery process look like, and how much downtime should I plan for?
 - What are the potential risks, and how do you minimize them?
 - When will I see the final results, and how long do they typically last?
-
 
 [SCHEDULE A CONSULTATION](/contact/)
 

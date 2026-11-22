@@ -10,8 +10,7 @@ publishedAt: "2025-12-17T10:35:23Z"
 updatedAt: "2026-01-29T05:54:33Z"
 readTime: 28
 wordCount: 6507
-featuredImage: >-
-  https://bermansexualhealth.com/wp-content/uploads/2025/12/aviva-labiaplasty-before-and-after-an-honest-guide-408476.webp
+featuredImage: "/images/blog/blog-image.jpg"
 originalUrl: "https://bermansexualhealth.com/aviva-labiaplasty-before-after/"
 author: "Dr. Jennifer Berman, MD"
 ---
@@ -237,7 +236,6 @@ Next, look for social proof. Read patient reviews and testimonials on trusted si
 A great consultation should feel like a collaborative conversation, not a sales pitch. You should leave feeling empowered and understood, with a clear path forward. The provider should spend more time listening to you than talking at you. They will ask about your motivations, your lifestyle, and your desired outcome to ensure Aviva is truly the right choice for you.
 
 You’ll know you’re in good hands when the provider gives you detailed pre- and post-procedure instructions and is transparent about costs. They should also manage your expectations, explaining what the treatment can and cannot do. Ultimately, you should feel a sense of trust and rapport. The office environment should be professional and private, making you feel completely at ease discussing a sensitive topic.
-
 
 [SCHEDULE A CONSULTATION](/contact/)
 

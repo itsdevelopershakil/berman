@@ -11,8 +11,7 @@ publishedAt: "2025-12-16T13:45:41Z"
 updatedAt: "2026-01-18T05:51:57Z"
 readTime: 27
 wordCount: 6194
-featuredImage: >-
-  https://bermansexualhealth.com/wp-content/uploads/2025/12/the-5-best-vaginal-moisturizers-for-lasting-relief-614191.webp
+featuredImage: "/images/blog/blog-image.jpg"
 originalUrl: "https://bermansexualhealth.com/best-vaginal-moisturizer/"
 author: "Dr. Jennifer Berman, MD"
 ---
@@ -236,7 +235,6 @@ If hormonal changes are the root cause of your dryness, one of the most direct a
 #### Vaginal Rejuvenation Procedures
 
 Beyond hormonal treatments, there are incredible in-office procedures that offer a different path to relief. Think of these as a way to kickstart your body’s own natural healing and revitalization processes. Minimally invasive treatments like Votiva or the O-Shot use innovative technology, such as radiofrequency energy or platelet-rich plasma, to stimulate collagen production and improve blood flow in the vaginal tissues. This helps restore tone, elasticity, and natural lubrication from within. These procedures are a fantastic option for women seeking a non-hormonal solution that provides significant, long-lasting results, helping to improve not just dryness but overall sexual and urinary health.
-
 
 [SCHEDULE A CONSULTATION](/contact/)
 

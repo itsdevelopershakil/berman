@@ -2,13 +2,13 @@
 slug: do-you-have-low-sexual-desire-if-so-youre-not-alone
 title: "Do You Have Low Sexual Desire? If So, You’re Not Alone!"
 italicWord: Alone
-excerpt: 'Hypoactive Sexual Desire (HSD) or low sexual desire is a common sexual difficulty. Although it can be experienced by both men and women, it is much more...'
+excerpt: "Hypoactive Sexual Desire (HSD) or low sexual desire is a common sexual difficulty. Although it can be experienced by both men and women, it is much more..."
 category: Sexual Health
 publishedAt: "2018-08-31T00:00:00Z"
 updatedAt: "2025-02-17T21:44:52Z"
 readTime: 3
 wordCount: 713
-featuredImage: "https://bermansexualhealth.com/wp-content/uploads/2023/02/Test-Blog-Image.jpg"
+featuredImage: "/images/blog/blog-image.jpg"
 originalUrl: >-
   https://bermansexualhealth.com/do-you-have-low-sexual-desire-if-so-youre-not-alone/
 tags:

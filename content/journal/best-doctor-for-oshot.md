@@ -10,8 +10,7 @@ publishedAt: "2026-03-19T19:15:12Z"
 updatedAt: "2026-03-19T19:15:12Z"
 readTime: 20
 wordCount: 4532
-featuredImage: >-
-  https://bermansexualhealth.com/wp-content/uploads/2026/03/how-to-choose-the-best-doctor-for-o-shot-416224.webp
+featuredImage: "/images/blog/blog-image.jpg"
 originalUrl: "https://bermansexualhealth.com/best-doctor-for-oshot/"
 author: "Dr. Jennifer Berman, MD"
 ---
@@ -171,7 +170,6 @@ Beyond general qualifications, look for a doctor with specific, hands-on experie
 ### Schedule a Consultation to Assess Your Comfort
 
 Finally, nothing beats a face-to-face meeting. A consultation is your chance to interview the doctor and see if they’re the right fit for you. Pay attention to how they communicate. Do they listen to your concerns without rushing? Do they explain the procedure, including benefits and potential risks, in a way you can understand? This is also an opportunity to get a feel for the office environment and the staff. You should feel respected and at ease from the moment you walk in. This appointment is all about ensuring you feel confident and comfortable moving forward with one of their sexual health services.
-
 
 [SCHEDULE A CONSULTATION](/contact/)
 

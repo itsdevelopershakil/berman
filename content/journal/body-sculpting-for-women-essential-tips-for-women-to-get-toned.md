@@ -2,13 +2,13 @@
 slug: body-sculpting-for-women-essential-tips-for-women-to-get-toned
 title: "Body Sculpting For Women: Essential Tips for Women to Get Toned"
 italicWord: Toned
-excerpt: 'Body sculpting has become a go-to for many women looking to tone and shape their bodies. Whether you’re aiming for a sleeker waistline, toned arms, or a...'
+excerpt: "Body sculpting has become a go-to for many women looking to tone and shape their bodies. Whether you’re aiming for a sleeker waistline, toned arms, or a..."
 category: Uncategorized
 publishedAt: "2024-10-16T06:52:30Z"
 updatedAt: "2025-12-11T05:32:08Z"
 readTime: 3
 wordCount: 615
-featuredImage: "https://bermansexualhealth.com/wp-content/uploads/2024/10/2.jpg"
+featuredImage: "/images/blog/blog-image.jpg"
 originalUrl: >-
   https://bermansexualhealth.com/body-sculpting-for-women-essential-tips-for-women-to-get-toned/
 tags:

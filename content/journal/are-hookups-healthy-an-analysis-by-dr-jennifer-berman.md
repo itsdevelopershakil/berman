@@ -10,8 +10,7 @@ publishedAt: "2024-08-02T10:29:18Z"
 updatedAt: "2025-12-19T05:46:09Z"
 readTime: 19
 wordCount: 4403
-featuredImage: >-
-  https://bermansexualhealth.com/wp-content/uploads/2025/04/Are-Hookups-Healthy-An-Analysis-by-Dr.-Jennifer-Berman.-Jennifer-Berman.webp
+featuredImage: "/images/blog/blog-image.jpg"
 originalUrl: >-
   https://bermansexualhealth.com/are-hookups-healthy-an-analysis-by-dr-jennifer-berman/
 tags:
@@ -243,4 +242,3 @@ Evidence-based recommendations emphasize safe practices and informed choices, un
 - **Trust Your Gut, Not the Hype**: The idea that everyone is constantly hooking up is largely a myth; research shows most people actually prefer a committed relationship. Make choices based on what you truly want, not on what you think is expected of you.
 - **Define What Empowerment Means for You**: Casual sex can be a source of freedom and exploration, but it can also lead to regret and anxiety. True empowerment comes from understanding your own emotional needs and making choices that honor them.
 - **Safety is Both Physical and Emotional**: Protecting yourself involves more than just preventing STIs. Emotional safety, created through clear and honest communication about consent, boundaries, and expectations, is just as crucial for a positive experience.
-

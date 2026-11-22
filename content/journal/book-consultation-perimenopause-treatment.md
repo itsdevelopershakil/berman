@@ -11,8 +11,7 @@ publishedAt: "2026-05-05T14:54:29Z"
 updatedAt: "2026-05-05T14:54:29Z"
 readTime: 13
 wordCount: 3077
-featuredImage: >-
-  https://bermansexualhealth.com/wp-content/uploads/2026/05/how-to-book-your-perimenopause-treatment-consultation-192898.webp
+featuredImage: "/images/blog/blog-image.jpg"
 originalUrl: "https://bermansexualhealth.com/book-consultation-perimenopause-treatment/"
 author: "Dr. Jennifer Berman, MD"
 ---
@@ -125,7 +124,6 @@ Consider asking questions like:
 - What can I expect from this treatment plan, and how will we track my progress?
 
 Asking these questions makes you an active participant in your own healthcare journey.
-
 
 [SCHEDULE A CONSULTATION](/contact/)
 

@@ -2,14 +2,13 @@
 slug: beyond-birth-control-new-and-evolving-treatments-for-patients-with-pcos
 title: "Beyond Birth Control: New and Evolving Treatments for Patients With PCOS"
 italicWord: PCOS
-excerpt: 'Almost all our PCOS patients share the same frustration. A look at new and evolving treatments for polycystic ovary syndrome beyond birth control.'
+excerpt: "Almost all our PCOS patients share the same frustration. A look at new and evolving treatments for polycystic ovary syndrome beyond birth control."
 category: Pelvic & Urinary
 publishedAt: "2025-07-21T23:01:40Z"
 updatedAt: "2026-01-02T05:35:19Z"
 readTime: 5
 wordCount: 1111
-featuredImage: >-
-  https://bermansexualhealth.com/wp-content/uploads/2025/07/AdobeStock_576011549-scaled.jpeg
+featuredImage: "/images/blog/blog-image.jpg"
 originalUrl: >-
   https://bermansexualhealth.com/beyond-birth-control-new-and-evolving-treatments-for-patients-with-pcos/
 author: "Dr. Jennifer Berman, MD"

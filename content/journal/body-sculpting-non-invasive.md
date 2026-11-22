@@ -11,8 +11,7 @@ publishedAt: "2025-12-11T10:55:13Z"
 updatedAt: "2026-02-13T10:26:19Z"
 readTime: 38
 wordCount: 8678
-featuredImage: >-
-  https://bermansexualhealth.com/wp-content/uploads/2025/12/body-sculpting-non-invasive-how-it-really-works-488057.webp
+featuredImage: "/images/blog/blog-image.jpg"
 originalUrl: "https://bermansexualhealth.com/body-sculpting-non-invasive/"
 author: "Dr. Jennifer Berman, MD"
 ---
@@ -322,7 +321,6 @@ To keep your body looking toned and feeling strong, your approach to fitness and
 #### Prioritizing Sleep
 
 It might be the most overlooked aspect of a healthy lifestyle, but getting enough quality sleep is non-negotiable for maintaining your body sculpting results. When you’re sleep-deprived, your body’s hormones can get thrown out of balance. Levels of cortisol (the stress hormone) rise, which can trigger fat storage, particularly around the abdomen. At the same time, the hormones that regulate your appetite get disrupted, making you more likely to crave unhealthy foods. Aiming for seven to nine hours of quality sleep per night helps keep these hormones in check, supports muscle recovery, and gives your body the rest it needs to function at its best. It’s a foundational habit that supports every other healthy choice you make.
-
 
 [SCHEDULE A CONSULTATION](/contact/)
 

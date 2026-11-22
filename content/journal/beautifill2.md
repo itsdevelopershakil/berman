@@ -2,14 +2,13 @@
 slug: beautifill2
 title: Why Beautifill Over Traditional Liposuction
 italicWord: Liposuction
-excerpt: 'Have you ever looked at your reflection and wished you could remove some of your stubborn fat, maybe in your stomach or thigh area?'
+excerpt: "Have you ever looked at your reflection and wished you could remove some of your stubborn fat, maybe in your stomach or thigh area?"
 category: Aesthetic & Regenerative
 publishedAt: "2023-03-10T23:20:23Z"
 updatedAt: "2025-02-14T00:38:07Z"
 readTime: 2
 wordCount: 375
-featuredImage: >-
-  https://bermansexualhealth.com/wp-content/uploads/2024/12/Dr.-Jennifer-Berman-Beautifill.webp
+featuredImage: "/images/blog/blog-image.jpg"
 originalUrl: "https://bermansexualhealth.com/beautifill2/"
 author: "Dr. Jennifer Berman, MD"
 ---

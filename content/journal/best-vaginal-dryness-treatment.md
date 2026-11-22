@@ -10,8 +10,7 @@ publishedAt: "2026-03-19T19:06:18Z"
 updatedAt: "2026-03-19T19:06:18Z"
 readTime: 16
 wordCount: 3743
-featuredImage: >-
-  https://bermansexualhealth.com/wp-content/uploads/2026/03/your-guide-to-the-best-vaginal-dryness-treatment-options-236454.webp
+featuredImage: "/images/blog/blog-image.jpg"
 originalUrl: "https://bermansexualhealth.com/best-vaginal-dryness-treatment/"
 author: "Dr. Jennifer Berman, MD"
 ---
@@ -147,7 +146,6 @@ Your body is not static, and your treatment plan shouldn’t be either. What wor
 ### Simple Tips for Long-Term Vaginal Health
 
 Beyond specific treatments, small daily habits can make a huge difference in your long-term comfort and sexual and urinary tract health. Start by being gentle with your body. Avoid douching and any scented soaps, sprays, or laundry detergents, as these can cause irritation. Instead, wash the area around your genitals with warm water and a mild, unscented soap. Choosing breathable cotton underwear can also help. And don’t forget the basics: staying well-hydrated by drinking plenty of water supports moisture throughout your body. Finally, allowing yourself enough time for arousal before sex can enhance your body’s natural lubrication.
-
 
 [SCHEDULE A CONSULTATION](/contact/)
 

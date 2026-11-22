@@ -10,8 +10,7 @@ publishedAt: "2025-12-12T13:01:25Z"
 updatedAt: "2026-01-08T05:49:52Z"
 readTime: 15
 wordCount: 3361
-featuredImage: >-
-  https://bermansexualhealth.com/wp-content/uploads/2025/12/what-to-expect-before-and-after-o-shot-procedure-521047.webp
+featuredImage: "/images/blog/blog-image.jpg"
 originalUrl: "https://bermansexualhealth.com/before-after-o-shot-procedure/"
 author: "Dr. Jennifer Berman, MD"
 ---
@@ -135,7 +134,6 @@ The O-Shot® is a groundbreaking, non-surgical treatment that uses the healing p
 During a private consultation, Dr. Berman will take the time to answer all of your questions—from how to prepare for the appointment to what your recovery will look like. Her practice is built on providing compassionate, expert care that empowers women to take control of their sexual and urinary tract health. You’ll leave your appointment feeling fully informed and supported.
 
 You deserve to feel vibrant and confident, and you don’t have to figure it out alone. If you’re ready to explore how the O-Shot® can revitalize your intimate life, we encourage you to schedule a consultation with Dr. Berman today. It’s the first step toward reclaiming your well-being.
-
 
 [SCHEDULE A CONSULTATION](/contact/)
 
